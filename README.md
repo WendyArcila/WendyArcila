@@ -34,9 +34,8 @@ That background gives me a unique perspective on the connection between **the hu
 
 </div>
 
-<summary>
-🤹🏻 <b>Full-Stack Skills</b>
-</summary>
+### 🤹🏻 <b>Full-Stack Skills</b>
+
 <div>
     <img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/GraphQL-e10098?&logo=GraphQL&logoColor=white">
