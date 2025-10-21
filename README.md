@@ -21,16 +21,6 @@ Oh, and fun fact — I’m also a **psychologist**! 🧠💬
 That background gives me a unique perspective on the connection between **the human mind and artificial intelligence**.  
 
 ---
-<summary>
-🚴 <b>GitHub Stats</b>
-</summary>
-<div style="display:flex; flex-direction:column;">
-<img src="https://github-readme-stats.vercel.app/api?username=WendyArcilaRuiz&show_icons=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendyArcilaRuiz&layout=compact&theme=dark">    
-</div>
-</details>
-
-<details>
 
 ### 🤖 AI, Machine Learning & Data Engineering  
 <div align="">
